@@ -5,7 +5,6 @@ It's a high-performance, real-time data dashboard built from scratch using Next.
 
 The primary goal is to render and smoothly update 10,000+ data points at 60fps, without using any third-party charting libraries.
 
-**[Link to your live Vercel/Netlify deployment]** (<- *Add your link here when you deploy*)
 
 ---
 
